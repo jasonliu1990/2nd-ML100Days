@@ -18,3 +18,7 @@ more information: https://ai100-2.cupoy.com/
 <a href=https://github.com/jasonliu1990/2nd-ML100Days/blob/master/homework/Day_014_HW.ipynb>Day 14: Subplots</a></br>
 <a href=https://github.com/jasonliu1990/2nd-ML100Days/blob/master/homework/Day_015_HW.ipynb>Day 15: Heatmap & Grid-plot</a></br>
 <a href=https://github.com/jasonliu1990/2nd-ML100Days/blob/master/homework/Day_016_HW.ipynb>Day 16: 模型初體驗 Logistic Regression</a></br>
+# Part 2 資料科學特徵工程技術
+<a href=https://github.com/jasonliu1990/2nd-ML100Days/blob/master/homework/Day_017_HW.ipynb>Day 17: 特徵工程簡介</a></br>
+<a href=https://github.com/jasonliu1990/2nd-ML100Days/blob/master/homework/Day_018_HW.ipynb>Day 18: 特徵類型</a></br>
+<a href=https://github.com/jasonliu1990/2nd-ML100Days/blob/master/homework/Day_019_HW.ipynb>Day 19: 數值型特徵-補缺失值與標準化</a></br>
