@@ -22,3 +22,4 @@ more information: https://ai100-2.cupoy.com/
 <a href=https://github.com/jasonliu1990/2nd-ML100Days/blob/master/homework/Day_017_HW.ipynb>Day 17: 特徵工程簡介</a></br>
 <a href=https://github.com/jasonliu1990/2nd-ML100Days/blob/master/homework/Day_018_HW.ipynb>Day 18: 特徵類型</a></br>
 <a href=https://github.com/jasonliu1990/2nd-ML100Days/blob/master/homework/Day_019_HW.ipynb>Day 19: 數值型特徵-補缺失值與標準化</a></br>
+<a href=https://github.com/jasonliu1990/2nd-ML100Days/blob/master/homework/Day_020_HW.ipynb>Day 20: 數值型特徵 - 去除離群值</a></br>
