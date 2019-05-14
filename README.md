@@ -27,4 +27,5 @@ more information: https://ai100-2.cupoy.com/
 <a href=https://github.com/jasonliu1990/2nd-ML100Days/blob/master/homework/Day_022_HW.ipynb>Day 22: 類別型特徵 - 基礎處理</a></br>
 <a href=https://github.com/jasonliu1990/2nd-ML100Days/blob/master/homework/Day_023_HW.ipynb>Day 23: 類別型特徵 - 均值編碼</a></br>
 <a href=https://github.com/jasonliu1990/2nd-ML100Days/blob/master/homework/Day_024_HW.ipynb>Day 24: 類別型特徵 - 其他進階處理</a></br>
+<a href=https://github.com/jasonliu1990/2nd-ML100Days/blob/master/homework/Day_025_HW.ipynb>Day 25: 時間型特徵</a></br>
 
