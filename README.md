@@ -33,3 +33,5 @@ more information: https://ai100-2.cupoy.com/
 <a href=https://github.com/jasonliu1990/2nd-ML100Days/blob/master/homework/Day_028_HW.ipynb>Day 28: 特徵選擇</a></br>
 <a href=https://github.com/jasonliu1990/2nd-ML100Days/blob/master/homework/Day_029_HW.ipynb>Day 29: 特徵評估</a></br>
 <a href=https://github.com/jasonliu1990/2nd-ML100Days/blob/master/homework/Day_030_HW.ipynb>Day 30: 分類型特徵優化 - 葉編碼</a></br>
+# Part 3 機器學習基礎模型建立
+學習透過Scikit-learn等套件，建立機器學習模型並進行訓練！
