@@ -36,6 +36,8 @@ more information: https://ai100-2.cupoy.com/
 # Part 3 機器學習基礎模型建立
 <a href=https://github.com/jasonliu1990/2nd-ML100Days/blob/master/homework/Day_031_HW.ipynb>Day 31: 機器學習概論</a></br>
 <a href=https://github.com/jasonliu1990/2nd-ML100Days/blob/master/homework/Day_032_HW.ipynb>Day 32: 機器學習-流程與步驟</a></br>
+<a href=https://github.com/jasonliu1990/2nd-ML100Days/blob/master/homework/Day_033_HW.ipynb>Day 33: 機器如何學習?</a></br>
+<a href=https://github.com/jasonliu1990/2nd-ML100Days/blob/master/homework/Day_034_HW.ipynb>Day 34: 訓練/測試集切分的概念</a></br>
 
 
 
