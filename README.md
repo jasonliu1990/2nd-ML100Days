@@ -39,7 +39,7 @@ more information: https://ai100-2.cupoy.com/
 <a href=https://github.com/jasonliu1990/2nd-ML100Days/blob/master/homework/Day_033_HW.ipynb>Day 33: 機器如何學習?</a></br>
 <a href=https://github.com/jasonliu1990/2nd-ML100Days/blob/master/homework/Day_034_HW.ipynb>Day 34: 訓練/測試集切分的概念</a></br>
 <a href=https://github.com/jasonliu1990/2nd-ML100Days/blob/master/homework/Day_035_HW.ipynb>Day 35: regression vs. classification</a></br>
-
+<a href=https://github.com/jasonliu1990/2nd-ML100Days/blob/master/homework/Day_036_HW.ipynb>Day 36: 評估指標選定/evaluation metrics</a></br>
 
 
 
