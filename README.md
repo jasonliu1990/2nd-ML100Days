@@ -40,6 +40,9 @@ more information: https://ai100-2.cupoy.com/
 <a href=https://github.com/jasonliu1990/2nd-ML100Days/blob/master/homework/Day_034_HW.ipynb>Day 34: 訓練/測試集切分的概念</a></br>
 <a href=https://github.com/jasonliu1990/2nd-ML100Days/blob/master/homework/Day_035_HW.ipynb>Day 35: regression vs. classification</a></br>
 <a href=https://github.com/jasonliu1990/2nd-ML100Days/blob/master/homework/Day_036_HW.ipynb>Day 36: 評估指標選定/evaluation metrics</a></br>
+<a href=https://github.com/jasonliu1990/2nd-ML100Days/blob/master/homework/Day_037_HW.ipynb>Day 37: regression model 介紹 - 線性迴歸/羅吉斯回歸</a></br>
+<a href=https://github.com/jasonliu1990/2nd-ML100Days/blob/master/homework/Day_038_HW.ipynb>Day 38: regression model 程式碼撰寫</a></br>
+
 
 
 
