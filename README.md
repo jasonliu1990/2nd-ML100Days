@@ -53,4 +53,5 @@ more information: https://ai100-2.cupoy.com/
 </a></br>
 <a href=https://github.com/jasonliu1990/2nd-ML100Days/blob/master/homework/Day_046_HW.ipynb>Day 46:tree based model - 梯度提升機程式碼撰寫
 </a></br>
-
+# Part 4 機器學習參數調整
+<a href=https://github.com/jasonliu1990/2nd-ML100Days/blob/master/homework/Day_047_HW.ipynb>Day 47:超參數調整與優化</a></br>
