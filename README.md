@@ -58,3 +58,12 @@ more information: https://ai100-2.cupoy.com/
 <a href=https://github.com/jasonliu1990/2nd-ML100Days/blob/master/homework/Day_048_HW.ipynb>Day 48:Kaggle競賽平台介紹scikit-learn-practice</a></br>
 <a href=https://github.com/jasonliu1990/2nd-ML100Days/blob/master/homework/Day_049_HW.ipynb>Day 49:集成方法 : 混合泛化(Blending)</a></br>
 <a href=https://github.com/jasonliu1990/2nd-ML100Days/blob/master/homework/Day_050_HW.ipynb>Day 50:集成方法 : 堆疊泛化(Stacking)</a></br>
+# Part 5 非監督式機器學習
+<a href=https://github.com/jasonliu1990/2nd-ML100Days/blob/master/homework/Day_054_HW.ipynb>Day 54:clustering 1 非監督式機器學習簡介</a></br>
+<a href=https://github.com/jasonliu1990/2nd-ML100Days/blob/master/homework/Day_055_HW.ipynb>Day 55:clustering 2 聚類算法</a></br>
+
+
+
+
+
+
