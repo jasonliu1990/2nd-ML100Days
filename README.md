@@ -55,3 +55,6 @@ more information: https://ai100-2.cupoy.com/
 </a></br>
 # Part 4 機器學習參數調整
 <a href=https://github.com/jasonliu1990/2nd-ML100Days/blob/master/homework/Day_047_HW.ipynb>Day 47:超參數調整與優化</a></br>
+<a href=https://github.com/jasonliu1990/2nd-ML100Days/blob/master/homework/Day_048_HW.ipynb>Day 48:Kaggle競賽平台介紹scikit-learn-practice</a></br>
+<a href=https://github.com/jasonliu1990/2nd-ML100Days/blob/master/homework/Day_049_HW.ipynb>Day 49:集成方法 : 混合泛化(Blending)</a></br>
+<a href=https://github.com/jasonliu1990/2nd-ML100Days/blob/master/homework/Day_050_HW.ipynb>Day 50:集成方法 : 堆疊泛化(Stacking)</a></br>
