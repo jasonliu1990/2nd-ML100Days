@@ -61,6 +61,9 @@ more information: https://ai100-2.cupoy.com/
 # Part 5 非監督式機器學習
 <a href=https://github.com/jasonliu1990/2nd-ML100Days/blob/master/homework/Day_054_HW.ipynb>Day 54:clustering 1 非監督式機器學習簡介</a></br>
 <a href=https://github.com/jasonliu1990/2nd-ML100Days/blob/master/homework/Day_055_HW.ipynb>Day 55:clustering 2 聚類算法</a></br>
+<a href=https://github.com/jasonliu1990/2nd-ML100Days/blob/master/homework/Day_056_HW.ipynb>Day 56:K-mean 觀察 : 使用輪廓分析</a></br>
+<a href=https://github.com/jasonliu1990/2nd-ML100Days/blob/master/homework/Day_057_HW.ipynb>Day 57:clustering 3 階層分群算法</a></br>
+
 
 
 
