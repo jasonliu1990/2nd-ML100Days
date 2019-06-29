@@ -63,7 +63,11 @@ more information: https://ai100-2.cupoy.com/
 <a href=https://github.com/jasonliu1990/2nd-ML100Days/blob/master/homework/Day_055_HW.ipynb>Day 55:clustering 2 聚類算法</a></br>
 <a href=https://github.com/jasonliu1990/2nd-ML100Days/blob/master/homework/Day_056_HW.ipynb>Day 56:K-mean 觀察 : 使用輪廓分析</a></br>
 <a href=https://github.com/jasonliu1990/2nd-ML100Days/blob/master/homework/Day_057_HW.ipynb>Day 57:clustering 3 階層分群算法</a></br>
-
+<a href=https://github.com/jasonliu1990/2nd-ML100Days/blob/master/homework/Day_058_HW.ipynb>Day 58:階層分群法 觀察 : 使用 2D 樣版資料集</a></br>
+<a href=https://github.com/jasonliu1990/2nd-ML100Days/blob/master/homework/Day_059_HW.ipynb>Day 59:dimension reduction 1 降維方法-主成份分析</a></br>
+<a href=https://github.com/jasonliu1990/2nd-ML100Days/blob/master/homework/Day_060_HW.ipynb>Day 60:PCA 觀察 : 使用手寫辨識資料集</a></br>
+<a href=https://github.com/jasonliu1990/2nd-ML100Days/blob/master/homework/Day_061_HW.ipynb>Day 61:dimension reduction 2 降維方法-T-SNE</a></br>
+<a href=https://github.com/jasonliu1990/2nd-ML100Days/blob/master/homework/Day_062_HW.ipynb>Day 62:t-sne 觀察 : 分群與流形還原</a></br>
 
 
 
