@@ -68,6 +68,10 @@ more information: https://ai100-2.cupoy.com/
 <a href=https://github.com/jasonliu1990/2nd-ML100Days/blob/master/homework/Day_060_HW.ipynb>Day 60:PCA 觀察 : 使用手寫辨識資料集</a></br>
 <a href=https://github.com/jasonliu1990/2nd-ML100Days/blob/master/homework/Day_061_HW.ipynb>Day 61:dimension reduction 2 降維方法-T-SNE</a></br>
 <a href=https://github.com/jasonliu1990/2nd-ML100Days/blob/master/homework/Day_062_HW.ipynb>Day 62:t-sne 觀察 : 分群與流形還原</a></br>
+# Part 6 深度學習理論和實作
+<a href=https://github.com/jasonliu1990/2nd-ML100Days/blob/master/homework/Day_063_HW.ipynb>Day 63:神經網路介紹</a></br>
+<a href=https://github.com/jasonliu1990/2nd-ML100Days/blob/master/homework/Day_064_HW.ipynb>Day 64:深度學習體驗: 模型調整與學習曲線</a></br>
+<a href=https://github.com/jasonliu1990/2nd-ML100Days/blob/master/homework/Day_065_HW.ipynb>Day 65:深度學習體驗: 啟動函數與正規化</a></br>
 
 
 
