@@ -79,6 +79,8 @@ more information: https://ai100-2.cupoy.com/
 <a href=https://github.com/jasonliu1990/2nd-ML100Days/blob/master/homework/Day_069_HW.ipynb>Day 69:Keras Module API</a></br>
 <a href=https://github.com/jasonliu1990/2nd-ML100Days/blob/master/homework/Day_070_HW.ipynb>Day 70:Multi-layer Perception多層感知</a></br>
 <a href=https://github.com/jasonliu1990/2nd-ML100Days/blob/master/homework/Day_071_HW.ipynb>Day 71:損失函數</a></br>
+<a href=https://github.com/jasonliu1990/2nd-ML100Days/blob/master/homework/Day_072_HW.ipynb>Day 72:啟動函數</a></br>
+<a href=https://github.com/jasonliu1990/2nd-ML100Days/blob/master/homework/Day_073_HW.ipynb>Day 73:梯度下降 Gradient Descent</a></br>
 
 
 
