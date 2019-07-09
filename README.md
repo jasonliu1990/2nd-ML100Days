@@ -72,7 +72,13 @@ more information: https://ai100-2.cupoy.com/
 <a href=https://github.com/jasonliu1990/2nd-ML100Days/blob/master/homework/Day_063_HW.ipynb>Day 63:神經網路介紹</a></br>
 <a href=https://github.com/jasonliu1990/2nd-ML100Days/blob/master/homework/Day_064_HW.ipynb>Day 64:深度學習體驗: 模型調整與學習曲線</a></br>
 <a href=https://github.com/jasonliu1990/2nd-ML100Days/blob/master/homework/Day_065_HW.ipynb>Day 65:深度學習體驗: 啟動函數與正規化</a></br>
-
+# Part 7 初探深度學習使用Keras
+<a href=https://github.com/jasonliu1990/2nd-ML100Days/blob/master/homework/Day_066_HW.ipynb>Day 66:Keras 安裝與介紹</a></br>
+<a href=https://github.com/jasonliu1990/2nd-ML100Days/blob/master/homework/Day_067_HW.ipynb>Day 67:Keras Dataset</a></br>
+<a href=https://github.com/jasonliu1990/2nd-ML100Days/blob/master/homework/Day_068_HW.ipynb>Day 68:Keras Sequential API</a></br>
+<a href=https://github.com/jasonliu1990/2nd-ML100Days/blob/master/homework/Day_069_HW.ipynb>Day 69:Keras Module API</a></br>
+<a href=https://github.com/jasonliu1990/2nd-ML100Days/blob/master/homework/Day_070_HW.ipynb>Day 70:Multi-layer Perception多層感知</a></br>
+<a href=https://github.com/jasonliu1990/2nd-ML100Days/blob/master/homework/Day_071_HW.ipynb>Day 71:損失函數</a></br>
 
 
 
