@@ -79,6 +79,13 @@ more information: https://ai100-2.cupoy.com/
 <a href=https://github.com/jasonliu1990/2nd-ML100Days/blob/master/homework/Day_069_HW.ipynb>Day 69:Keras Module API</a></br>
 <a href=https://github.com/jasonliu1990/2nd-ML100Days/blob/master/homework/Day_070_HW.ipynb>Day 70:Multi-layer Perception多層感知</a></br>
 <a href=https://github.com/jasonliu1990/2nd-ML100Days/blob/master/homework/Day_071_HW.ipynb>Day 71:損失函數</a></br>
+<a href=https://github.com/jasonliu1990/2nd-ML100Days/blob/master/homework/Day_072_HW.ipynb>Day 72:啟動函數</a></br>
+<a href=https://github.com/jasonliu1990/2nd-ML100Days/blob/master/homework/Day_073_HW.ipynb>Day 73:梯度下降 Gradient Descent</a></br>
+<a href=https://github.com/jasonliu1990/2nd-ML100Days/blob/master/homework/Day_074_HW.ipynb>Day 74:Gradient Descent 數學原理</a></br>
+<a href=https://github.com/jasonliu1990/2nd-ML100Days/blob/master/homework/Day_075_HW.ipynb>Day 75:BackPropagation</a></br>
+<a href=https://github.com/jasonliu1990/2nd-ML100Days/blob/master/homework/Day_076_HW.ipynb>Day 76:優化器optimizers</a></br>
+<a href=https://github.com/jasonliu1990/2nd-ML100Days/blob/master/homework/Day_077_HW.ipynb>Day 77:訓練神經網路的細節與技巧 - Validation and overfit</a></br>
+<a href=https://github.com/jasonliu1990/2nd-ML100Days/blob/master/homework/Day_078_HW.ipynb>Day 78:訓練神經網路前的注意事項</a></br>
 
 
 
