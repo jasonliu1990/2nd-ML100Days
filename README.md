@@ -86,6 +86,14 @@ more information: https://ai100-2.cupoy.com/
 <a href=https://github.com/jasonliu1990/2nd-ML100Days/blob/master/homework/Day_076_HW.ipynb>Day 76:優化器optimizers</a></br>
 <a href=https://github.com/jasonliu1990/2nd-ML100Days/blob/master/homework/Day_077_HW.ipynb>Day 77:訓練神經網路的細節與技巧 - Validation and overfit</a></br>
 <a href=https://github.com/jasonliu1990/2nd-ML100Days/blob/master/homework/Day_078_HW.ipynb>Day 78:訓練神經網路前的注意事項</a></br>
+<a href=https://github.com/jasonliu1990/2nd-ML100Days/blob/master/homework/Day_079_HW.ipynb>Day 79:訓練神經網路的細節與技巧 - Learning rate effect</a></br>
+<a href=https://github.com/jasonliu1990/2nd-ML100Days/blob/master/homework/Day_080_HW.ipynb>Day 80:[練習 Day] 優化器與學習率的組合與比較</a></br>
+<a href=https://github.com/jasonliu1990/2nd-ML100Days/blob/master/homework/Day_081_HW.ipynb>Day 81:訓練神經網路的細節與技巧 - Regularization</a></br>
+<a href=https://github.com/jasonliu1990/2nd-ML100Days/blob/master/homework/Day_082_HW.ipynb>Day 82:訓練神經網路的細節與技巧 - Dropout</a></br>
+<a href=https://github.com/jasonliu1990/2nd-ML100Days/blob/master/homework/Day_083_HW.ipynb>Day 83:訓練神經網路的細節與技巧 - Batch normalization</a></br>
+<a href=https://github.com/jasonliu1990/2nd-ML100Days/blob/master/homework/Day_084_HW.ipynb>Day 84:[練習 Day] 正規化/機移除/批次標準化的 組合與比較</a></br>
+<a href=https://github.com/jasonliu1990/2nd-ML100Days/blob/master/homework/Day_085_HW.ipynb>Day 85:訓練神經網路的細節與技巧 - 使用 callbacks 函數做 earlystop</a></br>
+
 
 
 
