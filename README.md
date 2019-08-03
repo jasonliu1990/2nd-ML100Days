@@ -93,6 +93,12 @@ more information: https://ai100-2.cupoy.com/
 <a href=https://github.com/jasonliu1990/2nd-ML100Days/blob/master/homework/Day_083_HW.ipynb>Day 83:訓練神經網路的細節與技巧 - Batch normalization</a></br>
 <a href=https://github.com/jasonliu1990/2nd-ML100Days/blob/master/homework/Day_084_HW.ipynb>Day 84:[練習 Day] 正規化/機移除/批次標準化的 組合與比較</a></br>
 <a href=https://github.com/jasonliu1990/2nd-ML100Days/blob/master/homework/Day_085_HW.ipynb>Day 85:訓練神經網路的細節與技巧 - 使用 callbacks 函數做 earlystop</a></br>
+<a href=https://github.com/jasonliu1990/2nd-ML100Days/blob/master/homework/Day_086_HW.ipynb>Day 86:訓練神經網路的細節與技巧 - 使用 callbacks 函數儲存 model</a></br>
+<a href=https://github.com/jasonliu1990/2nd-ML100Days/blob/master/homework/Day_087_HW.ipynb>Day 87:訓練神經網路的細節與技巧 - 使用 callbacks 函數做 reduce learning rate</a></br>
+<a href=https://github.com/jasonliu1990/2nd-ML100Days/blob/master/homework/Day_088_HW.ipynb>Day 88:訓練神經網路的細節與技巧 - 撰寫自己的 callbacks 函數</a></br>
+<a href=https://github.com/jasonliu1990/2nd-ML100Days/blob/master/homework/Day_089_HW.ipynb>Day 89:訓練神經網路的細節與技巧 - 訓練神經網路的細節與技巧 - 撰寫自己的 Loss function</a></br>
+<a href=https://github.com/jasonliu1990/2nd-ML100Days/blob/master/homework/Day_090_HW.ipynb>Day 90:使用傳統電腦視覺與機器學習進行影像辨識</a></br>
+<a href=https://github.com/jasonliu1990/2nd-ML100Days/blob/master/homework/Day_091_HW.ipynb>Day 91:[練習 Day] 使用傳統電腦視覺與機器學習進行影像辨識</a></br>
 
 
 
