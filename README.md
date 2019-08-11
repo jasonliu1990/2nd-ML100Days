@@ -107,6 +107,8 @@ more information: https://ai100-2.cupoy.com/
 <a href=https://github.com/jasonliu1990/2nd-ML100Days/blob/master/homework/Day_096_HW.ipynb>Day 96:Keras 中的 CNN layers</a></br>
 <a href=https://github.com/jasonliu1990/2nd-ML100Days/blob/master/homework/Day_097_HW.ipynb>Day 97:使用 CNN 完成 CIFAR-10 資料集</a></br>
 <a href=https://github.com/jasonliu1990/2nd-ML100Days/blob/master/homework/Day_098_HW.ipynb>Day 98:訓練卷積神經網路的細節與技巧 - 處理大量數據</a></br>
+<a href=https://github.com/jasonliu1990/2nd-ML100Days/blob/master/homework/Day_099_HW.ipynb>Day 99:訓練卷積神經網路的細節與技巧 - 處理小量數據</a></br>
+<a href=https://github.com/jasonliu1990/2nd-ML100Days/blob/master/homework/Day_100_HW.ipynb>Day 100:訓練卷積神經網路的細節與技巧 - 轉移學習 (Transfer learning)</a></br>
 
 
 
