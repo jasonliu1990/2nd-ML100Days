@@ -99,8 +99,14 @@ more information: https://ai100-2.cupoy.com/
 <a href=https://github.com/jasonliu1990/2nd-ML100Days/blob/master/homework/Day_089_HW.ipynb>Day 89:訓練神經網路的細節與技巧 - 訓練神經網路的細節與技巧 - 撰寫自己的 Loss function</a></br>
 <a href=https://github.com/jasonliu1990/2nd-ML100Days/blob/master/homework/Day_090_HW.ipynb>Day 90:使用傳統電腦視覺與機器學習進行影像辨識</a></br>
 <a href=https://github.com/jasonliu1990/2nd-ML100Days/blob/master/homework/Day_091_HW.ipynb>Day 91:[練習 Day] 使用傳統電腦視覺與機器學習進行影像辨識</a></br>
-
-
+# Part 8 深度學習應用卷積神經網路
+<a href=https://github.com/jasonliu1990/2nd-ML100Days/blob/master/homework/Day_092_HW.ipynb>Day 92:卷積神經網路 (Convolution Neural Network, CNN) 簡介</a></br>
+<a href=https://github.com/jasonliu1990/2nd-ML100Days/blob/master/homework/Day_093_HW.ipynb>Day 93:卷積神經網路架構細節</a></br>
+<a href=https://github.com/jasonliu1990/2nd-ML100Days/blob/master/homework/Day_094_HW.ipynb>Day 94:卷積神經網路 - 卷積(Convolution)層與參數調整</a></br>
+<a href=https://github.com/jasonliu1990/2nd-ML100Days/blob/master/homework/Day_095_HW.ipynb>Day 95:卷積神經網路 - 池化(Pooling)層與參數調整</a></br>
+<a href=https://github.com/jasonliu1990/2nd-ML100Days/blob/master/homework/Day_096_HW.ipynb>Day 96:Keras 中的 CNN layers</a></br>
+<a href=https://github.com/jasonliu1990/2nd-ML100Days/blob/master/homework/Day_097_HW.ipynb>Day 97:使用 CNN 完成 CIFAR-10 資料集</a></br>
+<a href=https://github.com/jasonliu1990/2nd-ML100Days/blob/master/homework/Day_098_HW.ipynb>Day 98:訓練卷積神經網路的細節與技巧 - 處理大量數據</a></br>
 
 
 
